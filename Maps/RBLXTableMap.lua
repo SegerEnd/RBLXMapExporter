@@ -1,5 +1,4 @@
- {
-   ["Part"] =  {
+  ["Part"] =  {
       [1] =  {
          ["Anchored"] = true,
          ["CFrame"] =  {
@@ -69,4 +68,3 @@
          ["Transparency"] = 0
       }
    }
-}
