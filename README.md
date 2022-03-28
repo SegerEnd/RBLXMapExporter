@@ -16,4 +16,4 @@ This tool allows you to export and load your maps you've created in Roblox Studi
 
 [RBLX Profile](https://www.roblox.com/users/108845791/profile)
 
-<img src="https://tr.rbxcdn.com/bfa85959d32772c5157d6824adac9722/352/352/Avatar/Png" height="95">
+<img src="https://tr.rbxcdn.com/bfa85959d32772c5157d6824adac9722/352/352/Avatar/Png" height="125">
