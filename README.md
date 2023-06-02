@@ -1,7 +1,7 @@
 # RBLXMapExporter <img src="https://tr.rbxcdn.com/4626cf3a45df7f19328cc82633b2ed01/420/420/Image/Png" width="40"/>
 This tool allows you to export and load your maps you've created in Roblox Studio to import back later as you run the experience.
 ### Features <img src="https://tr.rbxcdn.com/bd29da66bf82d46d7b3014b6a6d571c4/420/420/Decal/Png" width="25"/>
-- Load and export your exported map/world
+- Load and export (serialize) your exported map/world
 - File size compression while exporting
 - Load your (compressed) map from a URL by using HttpService
 - Using my easy to use exporting [plugin](https://www.roblox.com/library/9091870781/Export-World-To-Map)
